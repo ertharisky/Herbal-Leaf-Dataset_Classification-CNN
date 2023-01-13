@@ -26,5 +26,5 @@ Data set ini menggunakan beberapa plungin. Interuksi cara menggunakan data set i
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [] |
-| Google Drive | [https://drive.google.com/drive/folders/1QD24_ePCfRbbANnXJ9RGVefydTeZj5CZ?usp=sharing] |
+| GitHub | https://github.com/ertharisky/Herbal-Leaf-Dataset_Classification-CNN |
+| Google Drive | https://drive.google.com/drive/folders/1QD24_ePCfRbbANnXJ9RGVefydTeZj5CZ?usp=sharing |
